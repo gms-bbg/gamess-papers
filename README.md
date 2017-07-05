@@ -5,4 +5,4 @@ A public repository for GAMESS related documents:
 -  instructional material
 -  documentation
 
-Organizaed-chaos in progress.
+Organized-chaos in progress.
