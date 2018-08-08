@@ -5,4 +5,6 @@ A public repository for GAMESS related documents:
 -  instructional material
 -  documentation
 
-Organized-chaos in progress.
+Available branches:
+- [mv/SC17](https://github.com/gms-bbg/gamess-papers/tree/mv/SC17)
+- [mv/SC18](https://github.com/gms-bbg/gamess-papers/tree/mv/SC18)
